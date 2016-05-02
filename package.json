@@ -1,0 +1,14 @@
+{
+  "name": "kanban_app",
+  "version": "0.0.0",
+  "description": "webpack & react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt King",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "webpack": "~1.13.0"
+  }
+}
